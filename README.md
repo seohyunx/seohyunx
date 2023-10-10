@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=5E8AD3&height=220&section=header&animation=twinkling&text=Hi.%20I'm%20Hyunrok&fontSize=35&fontColor=45513A)
+![header](https://capsule-render.vercel.app/api?type=waving&color=5E8AD3&height=220&section=header&animation=twinkling&text=Hi!%20I'm%20Hyunrok!&fontSize=35&fontColor=45513A)
 
 
 <h3 align="center"><b>📚 Languages 📚</b></h3>
@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white"/>
 
 <br/>
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center"><b>🔧 Tech Stack 🔧</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
 
 </br>
-<h3 align="center"><b>🛠 Data Base 🛠</b></h3>
+<h3 align="center"><b>🛢 Data Base 🛢</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white"/>
 
 </br>
-<h3 align="center"><b>🛠 Design 🛠</b></h3>
+<h3 align="center"><b>🎨 Design 🎨</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white"/>
