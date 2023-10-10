@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=5E8AD3&height=200&section=header&animation=twinklin&text=Hi%20I'm%20Hyunrok&fontAlignY=40&fontSize=35&fontColor=45513A)
-![header](https://capsule-render.vercel.app/api?type=waving&color=5E8AD3&text=Hi%20I'm%20Hyunrok&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=220&fontColor=45513A)
+![header](https://capsule-render.vercel.app/api?type=waving&color=5E8AD3&height=200&section=header&animation=twinklin&text=Hi%20I'm%20Hyunrok&fontSize=35&fontColor=45513A)
 ---
 
 <h4 align="center"><b>📚 Languages 📚</b></h4>
