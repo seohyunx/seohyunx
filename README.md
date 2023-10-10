@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5E8AD3&height=220&section=header&animation=twinkling&text=Hi.%20I'm%20Hyunrok&fontSize=35&fontColor=45513A)
 
-<br/>
 <h3 align="center"><b>📚 Languages 📚</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
