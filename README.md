@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=9BE4C1&height=250&section=header&text=Hyunrok's%30GitHub&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9BE4C1&height=250&section=header&text=Hyunrok's%40GitHub&fontSize=60)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BEE4DB&height=200&section=footer" />
 
 
