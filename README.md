@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 
-[![Hyunrok's github stats](https://github-readme-stats.vercel.app/api?seohyunx={seohyunx}&show_icons=true&theme={theme})](https://github.com/{seohyunx}/github-readme-stats)
+[![Hyunrok's github stats](https://github-readme-stats.vercel.app/api?username={seohyunx}&show_icons=true&theme={theme})](https://github.com/{seohyunx}/github-readme-stats)
 
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BEE4DB&height=200&section=footer" />
