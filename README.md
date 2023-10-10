@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=9BE4C1&height=200&section=header&text=Hyunrok's%20GitHub&fontSize=60&fontColor=227B44)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9BE4C1&height=200&section=header&text=Hyunrok's%20GitHub&fontSize=60&fontColor=697D71)
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
