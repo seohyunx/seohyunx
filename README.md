@@ -4,6 +4,7 @@
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badgeHTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=black"/>
