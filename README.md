@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=9BE4C1&height=200&section=header&text=Hi%20I'm%20Hyunrok&fontSize=60&fontColor=45513A)
+![header](https://capsule-render.vercel.app/api?type=waving&color=5E8AD3&height=200&section=header&text=Hi%20I'm%20Hyunrok&fontSize=60&fontColor=45513A)
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&fontsize=20"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
