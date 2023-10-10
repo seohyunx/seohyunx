@@ -29,8 +29,13 @@
 <h3 align="center"><b>🛠 Design 🛠</b></h3>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?stylfor-the-badgee=&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+
+<h3 align="center"><b>🛠 IDE 🛠</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BEE4DB&height=200&section=footer" />
