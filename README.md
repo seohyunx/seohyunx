@@ -25,6 +25,12 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
 
+<img src=""/>
+<h3 align="center"><b>🛠 Design 🛠</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BEE4DB&height=200&section=footer" />
 
