@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/>
 
 <br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BEE4DB&height=200&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=85aced&height=200&section=footer" />
 
 
 <!--
