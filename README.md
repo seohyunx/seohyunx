@@ -3,6 +3,7 @@
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
+<img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/React-skyblue?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp
