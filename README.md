@@ -35,6 +35,7 @@
 <h3 align="center"><b>🛠 IDE 🛠</b></h3>
 </br>
 <p align="center">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 
 
