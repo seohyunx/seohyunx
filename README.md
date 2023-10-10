@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=서현록 ReadMe !&fontSize=20" />
+
 
 <!--
 **seohyunx/seohyunx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
