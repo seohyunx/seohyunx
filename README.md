@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9BE4C1&height=200&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9BE4C1&height=200&text=서현록의 ReadeMe&section=header" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BEE4DB&height=200&section=footer" />
 
 
