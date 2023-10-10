@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5E8AD3&height=200&section=header&text=Hi%20I'm%20Hyunrok&fontSize=35&fontColor=45513A)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+---
 
 <h4 align="center"><b>📚 Languages 📚</b></h4>
 </br>
