@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5E8AD3&height=200&section=header&text=Hi%20I'm%20Hyunrok&fontSize=35&fontColor=45513A)
 
+<h3 align="center"><b>📚 Languages 📚</b></h3>
+</br>
+<p align="center">
+  
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
