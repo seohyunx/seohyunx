@@ -1,4 +1,3 @@
-<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=9BE4C1&height=250&section=header&text=Hyunrok's%20GitHub&fontSize=60)
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
