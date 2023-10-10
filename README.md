@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5E8AD3&height=220&section=header&animation=twinkling&text=Hi.%20I'm%20Hyunrok&fontSize=35&fontColor=45513A)
 
+
 <h3 align="center"><b>📚 Languages 📚</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -41,10 +42,6 @@
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyunx&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/seohyunx/github-readme-stats)
-</div>
 
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BEE4DB&height=200&section=footer" />
