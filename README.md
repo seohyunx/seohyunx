@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9BE4C1&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BEE4DB&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9BE4C1&height=200&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BEE4DB&height=200&section=footer" />
 
 
 <!--
