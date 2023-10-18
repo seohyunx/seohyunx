@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/> -->
 
 </br>
 <h3 align="center"><b>🛢 Data Base 🛢</b></h3>
