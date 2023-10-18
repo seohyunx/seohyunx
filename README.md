@@ -41,6 +41,8 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+
 
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=85aced&height=200&section=footer" />
