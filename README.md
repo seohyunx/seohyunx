@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/  >
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white"/>
      
-<br/>
+<br/>    
 <h3 align="center"><b>🔧 Tech Stack 🔧</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/ >
